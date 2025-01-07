@@ -11,8 +11,7 @@ public void display()
 }
 	public static void main(String[] args) {
 		testing1 tst1=new testing1();
-	//System.out.println("The variable value:" +tst1.c);
-
+	
 		tst1.display();
 		
 		
